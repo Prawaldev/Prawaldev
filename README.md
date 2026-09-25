@@ -1,4 +1,3 @@
-```html
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -13,4 +12,3 @@
     alt="Prawal's GitHub profile"
   />
 </picture>
-```
