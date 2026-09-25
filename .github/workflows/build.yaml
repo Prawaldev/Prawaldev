@@ -1,0 +1,33 @@
+name: Validate Profile
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check profile files
+        run: |
+          test -f README.md
+          test -f assets/dark_mode.svg
+          test -f assets/light_mode.svg
+
+      - name: Validate SVG files
+        run: |
+          grep -q "<svg" assets/dark_mode.svg
+          grep -q "</svg>" assets/dark_mode.svg
+          grep -q "<svg" assets/light_mode.svg
+          grep -q "</svg>" assets/light_mode.svg
+
+      - name: Validation complete
+        run: echo "Profile files are valid."
