@@ -20,8 +20,11 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prawaldev&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages" />
-
+<details>
+<summary> Expand </summary>
+<div align="center">
+<img src="img/From Klickpin.com- Effortless Wedding Favor Ideas You Need Right Now-pin-id-634022453813816180.gif>
+</details
 
 </div>
 
