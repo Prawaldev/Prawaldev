@@ -1,4 +1,4 @@
-<a href="https://github.com/Prawaldev"><img src="/img/yozakura mutsumi/bg mutsumi.webp  /"></a>
+<a href="https://github.com/Prawaldev"><img src="/img/bg mutsumi.webp  /"></a>
 
 
 
@@ -22,7 +22,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prawaldev&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages" />
 
-<img src="https://streak-stats.demolab.com?user=Prawaldev&theme=github-dark-blue&hide_border=true" height="165" alt="GitHub Streak" />
 
 </div>
 
