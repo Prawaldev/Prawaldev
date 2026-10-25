@@ -23,8 +23,9 @@
 <details>
 <summary> Expand </summary>
 <div align="center">
-<img src="img/From Klickpin.com- Effortless Wedding Favor Ideas You Need Right Now-pin-id-634022453813816180.gif>
-</details
+<img src="img/From Klickpin.com- Effortless Wedding Favor Ideas You Need Right Now-pin-id-634022453813816180.gif">
+
+</details>
 
 </div>
 
